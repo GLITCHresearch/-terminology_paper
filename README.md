@@ -1,1 +1,3 @@
-# -terminology_paper
+# The Terminologies and Taxonomies of Internet Shutdowns
+
+In this paper, we explore definitions and synonyms of an ’in- ternet shutdown’ and propose a non-technical framework for internet shutdown ’types’, namely, the Four Pillars of Internet Shutdowns. We also collate existing taxonomies surrounding internet shutdowns or similar phenomena and propose a non- technical framework for grouping shutdowns. Both frame- works may be helpful for non-technical researchers looking to narrow the scope of their research on internet shutdowns in a methodologically principled manner. The key contribution of this paper is that it aims to provide a simplified approach to current terms and taxonomies of internet shutdowns, with an intended target audience of computational social scientists and policymakers. Our paper is novel, as it explores the grey areas between shutdown definitions and taxonomies and goes beyond the current “spectrum” approach to shutdowns.
